@@ -9,4 +9,10 @@
         </classes>
     </test>
 
+    <test name="TestUserLogin">
+        <classes>
+            <class name="id.co.juaracoding.hadir.tests.user.LoginTest"/>
+        </classes>
+    </test>
+
 </suite>
