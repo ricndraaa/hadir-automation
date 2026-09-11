@@ -1,0 +1,137 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e47]:
+    - generic [ref=e48]:
+      - generic [ref=e49]:
+        - generic [ref=e50]:
+          - img "photo user" [ref=e53]
+          - generic [ref=e54]:
+            - paragraph [ref=e55]: Hai, Hadir SQA Testing 1
+            - paragraph: Have a nice day !
+        - button [ref=e57] [cursor=pointer]:
+          - img "menu" [ref=e61]
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - paragraph [ref=e64]: Kehadiranmu
+          - generic [ref=e65]:
+            - button [ref=e68] [cursor=pointer]:
+              - paragraph [ref=e69]: September
+            - button [ref=e75] [cursor=pointer]:
+              - paragraph [ref=e76]: "2026"
+        - generic [ref=e82]:
+          - generic [ref=e84]:
+            - img "wfo" [ref=e89]
+            - paragraph [ref=e90]: WFO
+            - paragraph [ref=e91]: "1"
+          - generic [ref=e93]:
+            - img "leave" [ref=e98]
+            - paragraph [ref=e99]: Cuti
+            - paragraph [ref=e100]: "0"
+          - generic [ref=e102]:
+            - img "sick" [ref=e107]
+            - paragraph [ref=e108]: Sakit
+            - paragraph [ref=e109]: "2"
+          - generic [ref=e111]:
+            - img "wfh" [ref=e116]
+            - paragraph [ref=e117]: WFH
+            - paragraph [ref=e118]: "0"
+          - generic [ref=e120]:
+            - img "overtime" [ref=e125]
+            - paragraph [ref=e126]: Lembur
+            - paragraph [ref=e127]: "0"
+          - generic [ref=e129]:
+            - img "late" [ref=e134]
+            - paragraph [ref=e135]: Terlambat
+            - paragraph [ref=e136]: "0"
+          - generic [ref=e138]:
+            - img "early_leave" [ref=e143]
+            - paragraph [ref=e144]: Pulang Cepat
+            - paragraph [ref=e145]: "0"
+      - generic [ref=e146]:
+        - paragraph [ref=e147]: Menu
+        - generic [ref=e149]:
+          - generic [ref=e153] [cursor=pointer]:
+            - img "Absensi" [ref=e157]
+            - paragraph [ref=e158]: Absensi
+          - generic [ref=e162] [cursor=pointer]:
+            - img "Koreksi Absen" [ref=e166]
+            - paragraph [ref=e167]: Koreksi Absen
+          - generic [ref=e171] [cursor=pointer]:
+            - img "Izin" [ref=e175]
+            - paragraph [ref=e176]: Izin
+          - generic [ref=e180] [cursor=pointer]:
+            - img "Lembur" [ref=e184]
+            - paragraph [ref=e185]: Lembur
+          - generic [ref=e189] [cursor=pointer]:
+            - img "Cuti" [ref=e193]
+            - paragraph [ref=e194]: Cuti
+          - generic [ref=e198] [cursor=pointer]:
+            - img "Sakit" [ref=e202]
+            - paragraph [ref=e203]: Sakit
+          - generic [ref=e207] [cursor=pointer]:
+            - img "Download Reports" [ref=e211]
+            - paragraph [ref=e212]: Download Reports
+          - generic [ref=e216] [cursor=pointer]:
+            - img "Staff" [ref=e220]
+            - paragraph [ref=e221]: Staff
+      - generic [ref=e222]:
+        - generic [ref=e223]:
+          - paragraph [ref=e224]: History Absensi
+          - paragraph [ref=e226] [cursor=pointer]: Selengkapnya
+        - generic [ref=e230]:
+          - generic [ref=e231]:
+            - generic [ref=e232]:
+              - img "Photo Check In" [ref=e237]
+              - generic [ref=e238]:
+                - paragraph [ref=e239]: Hadir SQA Testing 1
+                - paragraph [ref=e240]: Rabu, 02 September 2026
+                - paragraph [ref=e241]: Work From Office
+                - paragraph [ref=e242]: Masuk pukul 10:33 - -
+                - paragraph [ref=e243]: "Notes :"
+            - button [ref=e245] [cursor=pointer]:
+              - paragraph [ref=e248]: Keluar
+          - generic [ref=e249]:
+            - generic [ref=e250]:
+              - img "Photo Check In" [ref=e255]
+              - generic [ref=e256]:
+                - paragraph [ref=e257]: Hadir SQA Testing 1
+                - paragraph [ref=e258]: Sabtu, 29 August 2026
+                - paragraph [ref=e259]: Work From Home
+                - paragraph [ref=e260]: Masuk pukul 04:16 - -
+                - paragraph [ref=e261]: "Notes :"
+            - button [ref=e263] [cursor=pointer]:
+              - paragraph [ref=e266]: Keluar
+          - generic [ref=e267]:
+            - generic [ref=e268]:
+              - img "Photo Check In" [ref=e273]
+              - generic [ref=e274]:
+                - paragraph [ref=e275]: Hadir SQA Testing 1
+                - paragraph [ref=e276]: Kamis, 27 August 2026
+                - paragraph [ref=e277]: Work From Office
+                - paragraph [ref=e278]: Masuk pukul 12:53 - -
+                - paragraph [ref=e279]: "Notes : Automated check in test"
+            - button [ref=e281] [cursor=pointer]:
+              - paragraph [ref=e284]: Keluar
+          - generic [ref=e285]:
+            - generic [ref=e286]:
+              - img "Photo Check In" [ref=e291]
+              - generic [ref=e292]:
+                - paragraph [ref=e293]: Hadir SQA Testing 1
+                - paragraph [ref=e294]: Rabu, 26 August 2026
+                - paragraph [ref=e295]: Work From Office
+                - paragraph [ref=e296]: Masuk pukul 21:59 - -
+                - paragraph [ref=e297]: "Notes : Automated check in test"
+            - button [ref=e299] [cursor=pointer]:
+              - paragraph [ref=e302]: Keluar
+          - generic [ref=e303]:
+            - generic [ref=e304]:
+              - img "Photo Check In" [ref=e309]
+              - generic [ref=e310]:
+                - paragraph [ref=e311]: Hadir SQA Testing 1
+                - paragraph [ref=e312]: Jumat, 21 August 2026
+                - paragraph [ref=e313]: Work From Office
+                - paragraph [ref=e314]: Masuk pukul 15:57 - -
+                - paragraph [ref=e315]: "Notes :"
+            - button [ref=e317] [cursor=pointer]:
+              - paragraph [ref=e320]: Keluar
+    - button "Absen Masuk" [ref=e323] [cursor=pointer]
+  - alert [ref=e31]: HADIR

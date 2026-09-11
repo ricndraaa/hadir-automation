@@ -1,0 +1,26 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - img "bg" [ref=e10]
+    - alert [ref=e35]:
+      - paragraph [ref=e40]: Berhasil login
+      - button "close" [ref=e42] [cursor=pointer]
+    - generic [ref=e11]:
+      - generic [ref=e12]: Email
+      - generic [ref=e14]:
+        - textbox "Email" [ref=e15]:
+          - /placeholder: Masukan Email kamu disini
+          - text: hadirsqa1@gmail.com
+        - group [aria-hidden]
+      - generic [ref=e16]: Password
+      - generic [ref=e18]:
+        - textbox "Password" [ref=e19]:
+          - /placeholder: Masukan password kamu disini
+          - text: SQA@Hadir12345
+        - button [ref=e21] [cursor=pointer]
+        - group [aria-hidden]
+      - button "Lupa password ?" [ref=e26] [cursor=pointer]
+      - button "Masuk" [ref=e27] [cursor=pointer]
+    - generic [ref=e28]:
+      - paragraph [ref=e29]: Belum punya akun ? buat
+      - button "disini" [ref=e30] [cursor=pointer]
+  - alert [ref=e31]

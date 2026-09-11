@@ -1,0 +1,2 @@
+[     532ms] [LOG] 4. WrappedApp created new store with withRedux(Component) {initialState: undefined, initialStateFromGSPorGSSR: undefined} @ https://magang.dikahadir.com/_next/static/chunks/pages/_app-2ad6ec1cd5a42c22.js:100
+[     555ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://magang.dikahadir.com/absen/login:0
